@@ -7,4 +7,4 @@
 3. 백준 랭킹을 올립니다.
 
 수료증
-<img src = "https://user-images.githubusercontent.com/52617204/184077911-14776ff9-ab28-4d21-8342-6171da2914b3.png" width="width 100" height="height 100">
+<img src = "https://user-images.githubusercontent.com/52617204/184077911-14776ff9-ab28-4d21-8342-6171da2914b3.png" width="width 50%" height="height 50%">
